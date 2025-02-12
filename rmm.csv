@@ -58,7 +58,7 @@ Itarian,,"ITSMAgent.exe,ItsmRsp.exe,ITSMService.exe,RDesktop.exe,RHost.exe,RmmSe
 ISL Light,islonline.com,"islalwaysonmonitor.exe,isllight.exe,isllightservice.exe",RMM,
 Jump Desktop,jumpdesktop.com,"jumpclient.exe,jumpdesktop.exe,jumpservice.exe",RMM,
 Kabuto,repairtechsolutions.com/kabuto/,,RMM,
-Kaseya (aka Unigma),kaseya.com,agentmon.exe,RMM,
+Kaseya (aka Unigma),kaseya.com,"agentmon.exe,pcmonitormanager.exe,pcmonitorsrv.exe,pcmontask.exe,pcmonusertask.exe,pcmupdate.exe",RMM,
 KickIdler,kickidler.com,,RMM,
 LabTech RMM (Now ConnectWise Automate),connectwise.com,"ltsvc.exe,ltsvcmon.exe,lttray.exe",RMM,
 LANDesk,ivanti.com,"issuser.exe,landeskagentbootstrap.exe,ldinv32.exe,ldsensors.exe",RMM,
